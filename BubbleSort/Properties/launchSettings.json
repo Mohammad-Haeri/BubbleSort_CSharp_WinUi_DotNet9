@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BubbleSort (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BubbleSort (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
