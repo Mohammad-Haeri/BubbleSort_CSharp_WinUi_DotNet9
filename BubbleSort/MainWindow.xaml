@@ -50,10 +50,15 @@
                     Grid.Column="1"
                     Margin="10,15,0,0"
                     Orientation="Vertical">
-                    <TextBlock
-                        FontSize="13"
-                        Foreground="WhiteSmoke"
-                        Text="Bubble Sort Algorithm Sample By Engineer Mohammad Haeri" />
+                    <TextBlock Foreground="WhiteSmoke">
+                        <Span
+                            FontSize="12.5"
+                            FontWeight="ExtraBold"
+                            Foreground="#7958ff">
+                            Bubble Sort
+                        </Span>
+                        <Span FontSize="12">Algorithm Sample By Engineer Mohammad Haeri</Span>
+                    </TextBlock>
 
                     <StackPanel Padding="2" Orientation="Horizontal">
                         <HyperlinkButton NavigateUri="https://www.Mohammad-Haeri.ir/">
